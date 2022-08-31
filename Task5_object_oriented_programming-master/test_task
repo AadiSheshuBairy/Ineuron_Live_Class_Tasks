@@ -1,0 +1,46 @@
+2022-07-20 20:51:43,088 root INFO Trying converting the entire string in uppercase
+2022-07-20 20:51:43,120 root INFO After converting a string to upper case:THIS IS MY FIRST PYTHON PROGRAMMING CLASS AND I AM LEARNING PYTHON STRING AND ITS FUNCTION
+2022-07-20 20:51:43,120 root INFO Trying to split the data given
+2022-07-20 20:51:43,120 root INFO After spliting the string:['this', 'is', 'My', 'First', 'Python', 'programming', 'class', 'and', 'i', 'am', 'learNING', 'python', 'string', 'and', 'its', 'function']
+2022-07-20 20:51:43,120 root INFO Trying converting the entire string in lower case
+2022-07-20 20:51:43,120 root INFO After converting a string to lower case:this is my first python programming class and i am learning python string and its function
+2022-07-20 20:51:43,120 root INFO Trying converting the entire string to capitalize
+2022-07-20 20:51:43,120 root INFO After converting a string to capitailize:This is my first python programming class and i am learning python string and its function
+2022-07-20 20:51:43,120 root INFO the difference b/w isalnum() & isalpha() 
+2022-07-20 20:51:43,120 root INFO No this is not alpha_numeric
+2022-07-20 20:51:43,120 root INFO if the string contains alphabets and numbers then it is alphanumeric if it contains only alphabets then it is isalph
+2022-07-20 20:51:43,120 root INFO if the output is true then the given data is isalnum:False
+2022-07-20 20:51:43,120 root INFO Example for expand tab
+2022-07-20 20:51:43,120 root INFO the example of expand tabs is :Iam     student at      ineuron 
+2022-07-20 20:51:43,120 root INFO Example for strip
+2022-07-20 20:51:43,120 root INFO the example of lstrip is :Iam student at ineuron                    
+2022-07-20 20:51:43,120 root INFO the example of rstrip is :                 Iam student at ineuron
+2022-07-20 20:51:43,120 root INFO the example of strip is :Iam student at ineuron
+2022-07-20 20:51:43,120 root INFO center is the string function in python which we can bring the value to center using our own elements and length
+2022-07-20 20:51:43,120 root INFO The centred output of the given string is:this is My First Python programming class and i am learNING python string and its function
+2022-07-20 20:51:43,120 root INFO Compiler is the program which checks the block of code at a time and gives output/error
+2022-07-20 20:51:43,120 root INFO Interpreter is the program which checks the block of code line by line and gives the output/error
+2022-07-20 20:51:43,120 root INFO python is a interpreted of compiled language because in interpreter itself it has compiler which compiles the code to byte code and then to virtual machine code this all process is done in intrepreter itself so the python is a interpreted of compiled language
+2022-08-19 13:13:45,574 root INFO Trying converting the entire string in uppercase
+2022-08-19 13:13:45,590 root INFO After converting a string to upper case:THIS IS MY FIRST PYTHON PROGRAMMING CLASS AND I AM LEARNING PYTHON STRING AND ITS FUNCTION
+2022-08-19 13:13:45,590 root INFO Trying to split the data given
+2022-08-19 13:13:45,590 root INFO After spliting the string:['this', 'is', 'My', 'First', 'Python', 'programming', 'class', 'and', 'i', 'am', 'learNING', 'python', 'string', 'and', 'its', 'function']
+2022-08-19 13:13:45,590 root INFO Trying converting the entire string in lower case
+2022-08-19 13:13:45,590 root INFO After converting a string to lower case:this is my first python programming class and i am learning python string and its function
+2022-08-19 13:13:45,590 root INFO Trying converting the entire string to capitalize
+2022-08-19 13:13:45,590 root INFO After converting a string to capitailize:This is my first python programming class and i am learning python string and its function
+2022-08-19 13:13:45,590 root INFO the difference b/w isalnum() & isalpha() 
+2022-08-19 13:13:45,590 root INFO No this is not alpha_numeric
+2022-08-19 13:13:45,590 root INFO if the string contains alphabets and numbers then it is alphanumeric if it contains only alphabets then it is isalph
+2022-08-19 13:13:45,590 root INFO if the output is true then the given data is isalnum:False
+2022-08-19 13:13:45,590 root INFO Example for expand tab
+2022-08-19 13:13:45,590 root INFO the example of expand tabs is :Iam     student at      ineuron 
+2022-08-19 13:13:45,590 root INFO Example for strip
+2022-08-19 13:13:45,590 root INFO the example of lstrip is :Iam student at ineuron                    
+2022-08-19 13:13:45,590 root INFO the example of rstrip is :                 Iam student at ineuron
+2022-08-19 13:13:45,590 root INFO the example of strip is :Iam student at ineuron
+2022-08-19 13:13:45,605 root INFO center is the string function in python which we can bring the value to center using our own elements and length
+2022-08-19 13:13:45,605 root INFO The centred output of the given string is:this is My First Python programming class and i am learNING python string and its function
+2022-08-19 13:13:45,605 root INFO Compiler is the program which checks the block of code at a time and gives output/error
+2022-08-19 13:13:45,605 root INFO Interpreter is the program which checks the block of code line by line and gives the output/error
+2022-08-19 13:13:45,605 root INFO python is a interpreted of compiled language because in interpreter itself it has compiler which compiles the code to byte code and then to virtual machine code this all process is done in intrepreter itself so the python is a interpreted of compiled language
